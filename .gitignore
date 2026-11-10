@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+PDF_Letters/
+Final_Audit_Report.csv
+*.pdf   
